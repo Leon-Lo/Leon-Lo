@@ -17,7 +17,9 @@ I'm a Sport Science graduate currently pursuing my master's degree with a keen i
 
 ## 📫 Get in Touch
 
-- Feel free to reach out to me if you have any questions or collaboration ideas. You can contact me through [email](leon.lobe@univie.ac.at)
+- ## 📫 Get in Touch
+
+- You can reach out to me directly via GitHub by sending a message or opening an issue on one of my repositories.
 
 ## 🌐 Find Me Online
 
