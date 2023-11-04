@@ -9,7 +9,7 @@ I'm a Sport Science graduate currently pursuing my master's degree with a keen i
 - **Sports Science**: My academic background equips me with a deep understanding of sports science concepts and principles.
 - **Movement Analysis**: I'm passionate about analyzing human movement to enhance performance and prevent injuries.
 - **Musculoskeletal Simulations**: I'm actively researching and working on musculoskeletal simulations for various applications.
-- - **Python**: Intermediate level proficiency in Python, with experience in data analysis, scripting, and more.
+- **Python**: Intermediate level proficiency in Python, with experience in data analysis, scripting, and more.
 
 ## 🌱 Projects
 
