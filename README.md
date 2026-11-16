@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Sport Science graduate currently pursuing my master's degree with a keen interest in movement analysis and musculoskeletal simulations. 
+I'm a Sport Science graduate currently pursuing a PhD in Biomechanics with a keen interest in movement analysis and musculoskeletal simulations. 
 
 ## 🔧 Skills and Interests
 
